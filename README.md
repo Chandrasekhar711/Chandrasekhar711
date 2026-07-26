@@ -1,125 +1,91 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Bala%20Venkata%20Chandra%20Sekhar%20Pampana&fontSize=38&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
-
 # Hi 👋, I'm Bala Venkata Chandra Sekhar Pampana
 
-### 🚀 Full Stack AI Developer | Python Developer | Problem Solver | Data Analytics Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+AI+Developer;React+%7C+FastAPI+%7C+Python+%7C+Java;Building+AI-Powered+Applications;Open+Source+Learner;600%2B+DSA+Problems+Solved;Always+Learning+New+Technologies+🚀" alt="Typing SVG"/>
-
-</div>
+### A passionate Full Stack AI Developer | React.js, FastAPI & Python Enthusiast | Building AI-powered Applications | Data Analytics Enthusiast from India 🇮🇳
 
 ---
 
-## 👨‍💻 About Me
+🔭 I’m currently building **Finlytics**, an AI-powered Personal Finance Management Platform using **React.js, FastAPI, Python, SQLite, and MySQL**.
 
-🎓 Third-year **Computer Science & Engineering** student passionate about building scalable software and AI-powered applications.
+👯 I'm looking to collaborate on **Full Stack Web Development, AI-powered applications, and Open Source Projects**.
 
-💻 I enjoy developing modern full-stack web applications using **React, FastAPI, Python, Java, and SQL**.
+🤝 I'm interested in connecting with **developers, startups, and entrepreneurs** to build impactful software solutions.
 
-📊 I also enjoy creating **Business Intelligence dashboards** with Power BI and exploring real-world data to generate actionable insights.
+🌱 Currently learning **Advanced React, FastAPI, Artificial Intelligence, System Design, Cloud Technologies, and Backend Architecture**.
 
-🌱 Currently learning
+💬 Ask me about **React.js, Python, FastAPI, Java, SQL, Data Structures & Algorithms, Database Design, and Power BI**.
 
-- Artificial Intelligence
-- Advanced Backend Development
-- Cloud Deployment
-- System Design
-
-🎯 **Career Goal**
-
-Become a Software Development Engineer (SDE) and build products that solve real-world problems through scalable software and AI.
+⚡ I enjoy building **modern SaaS products, AI-powered applications, and data-driven dashboards** that solve real-world problems.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Socials
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/chandra-sekhar-pampana/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 <a href="https://github.com/Chandrasekhar711" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="55" />
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
 <a href="https://leetcode.com/u/chandrasekhar_93/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55" />
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50"/>
 </a>
 
 <a href="https://www.codechef.com/users/chandrasek_93" target="_blank">
-  <img src="https://cdn.simpleicons.org/codechef/5B4638" height="55" />
+<img src="https://cdn.simpleicons.org/codechef/5B4638" height="50"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/chandrasekharp22" target="_blank">
-  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="55" />
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="50"/>
 </a>
 
 <a href="mailto:chandrasekharpampana93@gmail.com">
-  <img src="https://img.icons8.com/color/96/gmail-new.png" height="55" />
+<img src="https://img.icons8.com/color/96/gmail-new.png" height="50"/>
 </a>
-
-</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/chandra-sekhar-pampana/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Chandrasekhar711">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/u/chandrasekhar_93/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.codechef.com/users/chandrasek_93">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/chandrasekharp22">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="mailto:chandrasekharpampana93@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
-## 🚀 Quick Highlights
-
-<div align="center">
-
-| 💡 | Achievement |
-|:--:|-------------|
-| 💻 | Full Stack AI Developer |
-| 🧩 | 600+ DSA Problems Solved |
-| 🏆 | Oracle Certified Database Foundations Associate |
-| 📊 | Data Analytics & Power BI Enthusiast |
-| 🤖 | AI & Machine Learning Explorer |
-| 🚀 | Building Finlytics – AI Personal Finance Platform |
-
-</div>
-
----
-
-## 👀 Profile Overview
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Chandrasekhar711&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/Chandrasekhar711?label=Followers&style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/Chandrasekhar711?affiliations=OWNER&style=for-the-badge"/>
 
 </p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6a11cb,100:2575fc"/>
+# 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,react,fastapi,nodejs,mysql,sqlite,git,github,vscode&perline=8"/>
+
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+
+<img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
