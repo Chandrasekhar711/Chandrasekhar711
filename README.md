@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bala Venkata Chandra Sekhar Pampana
 
-### A passionate Full Stack AI Developer | React.js, FastAPI & Python Enthusiast | Building AI-powered Applications | Data Analytics Enthusiast from India 🇮🇳
+### A passionate Full Stack AI Developer | FastAPI & Python Enthusiast | Building AI-powered Applications | Data Analytics Enthusiast from India 🇮🇳
 
 ---
 
@@ -9,12 +9,6 @@
 👯 I'm looking to collaborate on **Full Stack Web Development, AI-powered applications, and Open Source Projects**.
 
 🤝 I'm interested in connecting with **developers, startups, and entrepreneurs** to build impactful software solutions.
-
-🌱 Currently learning **Advanced React, FastAPI, Artificial Intelligence, System Design, Cloud Technologies, and Backend Architecture**.
-
-💬 Ask me about **React.js, Python, FastAPI, Java, SQL, Data Structures & Algorithms, Database Design, and Power BI**.
-
-⚡ I enjoy building **modern SaaS products, AI-powered applications, and data-driven dashboards** that solve real-world problems.
 
 ---
 
